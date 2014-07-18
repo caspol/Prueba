@@ -11,7 +11,7 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //Activity principal y ahora lo he modificado
+        //Activity principal y ahora lo he modificado pero no es un merge
         setContentView(R.layout.main_activity);
     }
 
